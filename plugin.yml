@@ -1,0 +1,5 @@
+name: DanceFarm
+version: 1.0.0
+main: dancefarm\Main
+api: 5.0.0
+descripcion: plugin que hace crecer a los cultivos en un radio configurable mediante dance 
